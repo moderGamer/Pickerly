@@ -3,7 +3,7 @@
 Pickerly is a simple android library which allows you to pick image seamlessly in your android
 project
 
-## How to get it
+## How to get it 
 
 Step 1. Add the JitPack repository in your root build.gradle at the end of repositories:
 
